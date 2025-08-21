@@ -1,8 +1,15 @@
 20172991 Este ciclo sacare 00 de promedio final
+<<<<<<< HEAD
 
 20221804 Este ciclo sacare 15 de promedio final
 
 20231443 Este ciclo sacare 13 de promedio final
 20224561 Este ciclo sacare 15 de promedio final
 
+<<<<<<< HEAD
 20224619 Este ciclo sacare 14 de promedio final	
+=======
+
+20231449 Este ciclo sacare 20 de promedio final 
+
+>>>>>>> 564229964cdaf46267fa7ab623e96a45e4a3d144
